@@ -1,4 +1,6 @@
 # Gitbook Theme For Typora
+[中文说明](README.zh-CN.md)
+
 ![img](media/variants.png)
 
 This typora theme is inspired by the [Gitbook](https://www.gitbook.com) document style. It features three variants: *Azure*, *Slate* and *Teal*.

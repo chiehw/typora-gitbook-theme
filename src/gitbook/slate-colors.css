@@ -21,7 +21,10 @@
 
     --borders: #272c35;
     --borders-top-margin: #0A0C0E; /* for dark borders below top margin */
-    --table-border-color: #272c35;
+    --table-border-color: #3a4350;
+    --table-header-bg-color: #222933;
+    --table-row-alt-bg-color: #171d25;
+    --table-row-hover-bg-color: #272f3a;
     --boxes: #1c2027;
     --boxes-darker: #353b46;
     --boxes-darker2: #3e4551;
